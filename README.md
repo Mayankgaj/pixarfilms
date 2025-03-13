@@ -80,12 +80,12 @@ This data here within is not constrained to exploring just within R.
 
 Here are direct links to each data set.
 
-    https://raw.githubusercontent.com/erictleung/pixarfilms/main/data-raw/academy.csv
-    https://raw.githubusercontent.com/erictleung/pixarfilms/main/data-raw/box_office.csv
-    https://raw.githubusercontent.com/erictleung/pixarfilms/main/data-raw/genres.csv
-    https://raw.githubusercontent.com/erictleung/pixarfilms/main/data-raw/pixar_films.csv
-    https://raw.githubusercontent.com/erictleung/pixarfilms/main/data-raw/pixar_people.csv
-    https://raw.githubusercontent.com/erictleung/pixarfilms/main/data-raw/public_response.csv
+    https://raw.githubusercontent.com/Mayankgaj/pixarfilms/main/data-raw/academy.csv
+    https://raw.githubusercontent.com/Mayankgaj/pixarfilms/main/data-raw/box_office.csv
+    https://raw.githubusercontent.com/Mayankgaj/pixarfilms/main/data-raw/genres.csv
+    https://raw.githubusercontent.com/Mayankgaj/pixarfilms/main/data-raw/pixar_films.csv
+    https://raw.githubusercontent.com/Mayankgaj/pixarfilms/main/data-raw/pixar_people.csv
+    https://raw.githubusercontent.com/Mayankgaj/pixarfilms/main/data-raw/public_response.csv
 
 There’s also a `datapackage.json` file (located at
 `/data-raw/datapackage.json`) to be a computer-readable data dictionary
